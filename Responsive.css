@@ -1,0 +1,90 @@
+@media screen and (max-width:991px){
+    h3{
+        font-size: 1.2rem;
+    }
+    
+}
+@media screen and (max-width:767px){
+    .input-box {
+        width: 100%;
+    }
+    .btn{
+        margin-top: 10px;
+        width: 100%;
+    }
+    .section_left{
+        max-width: 60vw;
+    }
+
+}
+@media screen and (max-width:479px){
+    .header_section{
+        flex-direction: column-reverse;
+    }
+    .header-left {
+        max-width: 100vw;
+    }
+    .input-box {
+        width: 100%;
+    }
+    .btn{
+        margin-top: 10px;
+        width: 100%;
+    }
+    .main_section{
+        flex-direction: column-reverse;
+    }
+    .section_left{
+        max-width: 100vw;
+    }
+    .section_left h1{
+        font-size: 18px;
+    }
+    .card{
+        max-width: 80%;
+        max-height: 100%;
+        margin-left: 40px;
+        margin-top: 20px;
+        
+    }
+    .full_section{
+        flex-direction: column;
+    }
+    .left_text{
+        max-width: 100vw;
+    
+    }
+    .button{
+        width: 85%;
+    }
+    .company_logo{
+        position: absolute;
+    }
+    .footer{
+    height: 500px;
+    }
+    .social{
+        position: absolute;
+        padding-top: 80px;
+    }
+    .social2{
+        position: absolute;
+        margin-top: 120px;
+    }
+    .link_column{
+        position: absolute;
+        margin-top: 480px;
+        left: 10%;
+    }
+    .link_column2{
+        position: absolute;
+        margin-top: 750px;
+        left: 10%;
+
+    }
+    .link{
+        position: absolute;
+        left: 33%;
+        margin-top: 900px;
+    }
+}
